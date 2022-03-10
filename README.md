@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saifRa8
-- 👀 I’m interested in programing and programing languages
-- 🌱 I’m currently graduate software engingeer
+ I’m currently graduate software engingeer
 - 📫 How to reach me ...? E-mail: Seef.ra7@gmail.com 
 
 <!---
